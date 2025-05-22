@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3a5f76ca-2b1d-4cb0-8188-a8043ba532a4)# EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+# EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 
 ## AIM:
 To create a 3D model from given orthographic projection.
